@@ -1,5 +1,5 @@
 profile = "tfadmin1"
-region  = "eu-west-1"
+region  = "eu-west-3"
 
 project     = "acme-ecs"
 environment = "dev"
